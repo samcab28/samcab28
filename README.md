@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frameworks like Java Spring, data visualization tools like D3.js, or strong backend capabilities with Rust and TypeScript.**
 
-- 👯 I’m looking to collaborate that **improve your learning and computational practices**
+- 👯 I’m looking to collaborate that **improves my learning and computational practices**
 
 - 🤝 I’m looking for help with **Advance in my studies and find new projects that challenge me.**
 
