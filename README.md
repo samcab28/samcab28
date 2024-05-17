@@ -3,7 +3,7 @@
 
 - 🔭 I’m studying at **Instituto Tecnologico de Costa Rica**
 
-- 🌱 I’m currently learning **Frameworks like React, data visualization tools like D3.js, or strong backend capabilities with Rust and TypeScript.**
+- 🌱 I’m currently learning **Frameworks like Java Spring, data visualization tools like D3.js, or strong backend capabilities with Rust and TypeScript.**
 
 - 👯 I’m looking to collaborate that **improve your learning and computational practices**
 
