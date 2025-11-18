@@ -175,8 +175,6 @@ Looking to collaborate on backend systems, ML deployment, or distributed archite
 
 <img src="https://github-readme-stats.vercel.app/api?username=samcab28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samcab28&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=samcab28&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B" alt="Activity Graph" />
 
 </div>
