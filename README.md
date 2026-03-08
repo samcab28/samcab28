@@ -62,21 +62,5 @@ Computer Science Engineering @ Instituto Tecnologico de Costa Rica
 
 ---
 
-### Currently
-
-Chair of **CONESCAPAN 2026** (IEEE Region 9) and the **Computer Society** chapter at IEEE-TEC.
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=samcab28&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=A0AEC0&include_all_commits=true&count_private=true&hide_title=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samcab28&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=A0AEC0&langs_count=6&hide_title=true" height="150" />
-
-<br><br>
-
 #### Explore my pinned projects below.
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:1a1a2e,100:0D1117&height=100&section=footer" width="100%" />
